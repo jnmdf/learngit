@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Merge in git is simple and quick.
 Learn to use 'stash' in git.
+How to assure two different branches same commit id.
