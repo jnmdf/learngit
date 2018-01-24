@@ -7,3 +7,4 @@ Merge in git is simple and quick.
 Learn to use 'stash' in git.
 How to assure two different branches same commit id.
 Ok, so it is.
+Let's proceed.
