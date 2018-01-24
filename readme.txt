@@ -8,3 +8,4 @@ Learn to use 'stash' in git.
 How to assure two different branches same commit id.
 Ok, so it is.
 Let's proceed.
+Let's go on.
